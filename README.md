@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Chance031&theme=radical&show_icons=true&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chance031&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chance031&theme=radical&hide_border=false&layout=compact)
+
 <!--
 **Chance031/Chance031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

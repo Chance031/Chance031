@@ -39,10 +39,17 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chance031&theme=radical&show_icons=true&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chance031&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chance031&theme=radical&hide_border=false&layout=compact)
+
+
+## 📊 GitHub 통계
+
+
+![](https://github-readme-stats.vercel.app/api?username=Chance031&show_icons=true&theme=buefy&hide_border=false&hide_rank=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Chance031&theme=buefy&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chance031&layout=compact&theme=buefy&hide_border=false)
+
 
 <!--
 **Chance031/Chance031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

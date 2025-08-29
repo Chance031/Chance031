@@ -36,7 +36,7 @@
 ### 📖 경험 언어 (Experienced Languages)
 *주력 기술 외에 프로젝트나 학습 목적으로 사용해 본 언어입니다.*
 
-![C](https.img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ## 📊 GitHub Stats:

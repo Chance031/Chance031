@@ -51,6 +51,19 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chance031&layout=compact&theme=buefy&hide_border=false)
 
+## 🌱 학습 및 성장 기록 (Learning Journey)
+
+*새로운 것을 배우고, 실험하고, 꾸준히 기록하는 공간입니다.*
+
+<a href="https://github.com/Chance031/YOUR_STUDY_REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chance031&repo=YOUR_STUDY_REPO_NAME&theme=default" />
+</a>
+
+---
+
+### 📫 연락 방법 (Contact Me)
+
+<a href="mailto:your.aday031@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!--
 **Chance031/Chance031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

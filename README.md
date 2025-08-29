@@ -45,7 +45,7 @@
 ## 📊 GitHub 통계
 
 
-![](https://github-readme-stats.vercel.app/api?username=Chance031&show_icons=true&theme=buefy&hide_border=false&hide_rank=true)
+![](https://github-readme-stats.vercel.app/api?username=Chance031&show_icons=true&theme=default&hide_rank=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chance031&theme=buefy&hide_border=false)
 

@@ -7,7 +7,7 @@
 
 ## 🛠️ 기술 스택 (Tech Stack)
 
-#### 💻 주력 기술 (Core Skills)
+### 💻 주력 기술 (Core Skills)
 *가장 자신 있고, 깊이 있게 공부하고 있는 핵심 기술입니다.*
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -20,22 +20,25 @@
 
 <br/>
 
-#### ⚙️ 개발 도구 (Tools & Environment)
-*프로젝트 진행 및 학습 과정에서 사용하는 개발 도구입니다.*
+### ⚙️ 개발 및 협업 도구 (Tools & Collaboration)
+*프로젝트 진행 및 협업 과정에서 사용하는 개발 도구입니다.*
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 <br/>
 
-#### 📖 경험 언어 (Experienced Languages)
+### 📖 경험 언어 (Experienced Languages)
 *주력 기술 외에 프로젝트나 학습 목적으로 사용해 본 언어입니다.*
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C](https.img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Chance031&theme=radical&show_icons=true&hide_border=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chance031&theme=radical&hide_border=false)<br/>

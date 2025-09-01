@@ -55,8 +55,8 @@
 
 *새로운 것을 배우고, 실험하고, 꾸준히 기록하는 공간입니다.*
 
-<a href="https://github.com/Chance031/YOUR_STUDY_REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chance031&repo=YOUR_STUDY_REPO_NAME&theme=default" />
+<a href="https://github.com/Chance031/Cpp-Pokemon-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chance031&repo=Cpp-Pokemon-Project&theme=default" />
 </a>
 
 ---

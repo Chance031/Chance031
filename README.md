@@ -1,1 +1,1 @@
-![terminal](./terminal.svg)
+![](./terminal.svg?v=2)

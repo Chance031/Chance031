@@ -28,15 +28,16 @@
     <text x="38" y="62" fill="#ffffff" font-size="14" class="mono">whoami</text>
 
     <!-- 출력 y=82, 100 -->
-    <text x="24" y="82" fill="#aaaaaa" font-size="14" class="mono">&gt; Chance (찬스)</text>
-    <text x="24" y="100" fill="#aaaaaa" font-size="14" class="mono">&gt; Game Systems Developer</text>
+    <text x="24" y="82" fill="#aaaaaa" font-size="14" class="mono">Chance (찬스)</text>
+    <text x="24" y="100" fill="#aaaaaa" font-size="14" class="mono">Game Systems Developer</text>
 
-    <!-- $ Introducing  y=126 -->
+    <!-- $ echo "Introducing"  y=126 -->
     <text x="24" y="126" fill="#28c840" font-size="14" class="mono">$</text>
-    <text x="38" y="126" fill="#ffffff" font-size="14" class="mono">Introducing</text>
+    <text x="38" y="126" fill="#ffffff" font-size="14" class="mono">echo </text>
+    <text x="80" y="126" fill="#e5c07b" font-size="14" class="mono">"Introducing"</text>
 
     <!-- 출력 y=146 -->
-    <text x="24" y="146" fill="#aaaaaa" font-size="13" class="mono">&gt; 게임의 동작 원리를 이해하고, 이를 시스템으로 설계하고 구현하는 개발자 찬스입니다.</text>
+    <text x="24" y="146" fill="#aaaaaa" font-size="13" class="mono">게임의 동작 원리를 이해하고, 이를 시스템으로 설계하고 구현하는 개발자 찬스입니다.</text>
 
     <!-- $ git log  y=172 -->
     <text x="24" y="172" fill="#28c840" font-size="14" class="mono">$</text>
@@ -47,7 +48,9 @@
 
     <!-- $ grep  y=218 -->
     <text x="24" y="218" fill="#28c840" font-size="14" class="mono">$</text>
-    <text x="38" y="218" fill="#ffffff" font-size="14" class="mono">grep -r "강점" ./chance</text>
+    <text x="38" y="218" fill="#ffffff" font-size="14" class="mono">grep -r </text>
+    <text x="96" y="218" fill="#e5c07b" font-size="14" class="mono">"강점"</text>
+    <text x="140" y="218" fill="#ffffff" font-size="14" class="mono">./chance</text>
 
     <!-- 출력 y=238 -->
     <text x="24" y="238" fill="#aaaaaa" font-size="13" class="mono">&gt; 꼼꼼함, 완성도, 끝까지 파고드는 스타일</text>
@@ -56,11 +59,9 @@
     <text x="24" y="264" fill="#28c840" font-size="14" class="mono">$</text>
     <text x="38" y="264" fill="#ffffff" font-size="14" class="mono">status</text>
 
-    <!-- 출력 y=284 — 진행바 + 텍스트 -->
+    <!-- 출력 y=284 -->
     <text x="24" y="284" fill="#aaaaaa" font-size="13" class="mono">&gt; [</text>
-    <!-- 채워진 바 (6칸) -->
     <text x="51" y="284" fill="#28c840" font-size="13" class="mono">######</text>
-    <!-- 빈 바 (4칸) -->
     <text x="99" y="284" fill="#444444" font-size="13" class="mono">....</text>
     <text x="127" y="284" fill="#aaaaaa" font-size="13" class="mono">]</text>
     <text x="143" y="284" fill="#aaaaaa" font-size="13" class="mono">still leveling up...</text>

@@ -48,10 +48,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Chance031&theme=default&hide_border=false)
 
-<br/>
-
-![잔디](https://ghchart.rshah.org/639922/Chance031)
-
 </div>
 
 ---

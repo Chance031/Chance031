@@ -46,11 +46,11 @@
 
 <div align="center">
 
-![잔디](https://ghchart.rshah.org/Chance031)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Chance031&theme=default&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chance031&layout=compact&theme=default&hide_border=false)
+<br/>
+
+![잔디](https://ghchart.rshah.org/639922/Chance031)
 
 </div>
 

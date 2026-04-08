@@ -77,8 +77,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chance031&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chance031&layout=compact&theme=dark&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ---

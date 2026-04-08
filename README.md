@@ -10,29 +10,7 @@
 
 > AI를 활용하되, 코드를 이해하고 판단하는 능력을 함께 키우는 방식으로 공부하고 있습니다.
 
-### C++
-
-- 클래스 설계 시 책임 분리 — Tetromino / Board / Game이 각자의 역할만 담당하도록 구조화
-- `constexpr`, `static_cast`, `std::array`, `std::chrono` 등 현대 C++ 관용구 실전 적용
-- Anonymous namespace로 내부 헬퍼 함수 격리, `m_` prefix 멤버 변수 명명 규칙 유지
-- `uint8_t` vs `int` 타입 선택 기준 — 저장 범위와 메모리 효율을 고려한 판단
-- `std::mt19937` + `std::shuffle`로 시드 기반 균등 랜덤 구현 (7-bag 시스템)
-
-### 게임 로직
-
-- SRS(Super Rotation System) Wall Kick — I피스와 일반 피스의 킥 테이블 분리 구현
-- Lock Delay + MaxLockReset 설계 — 타이머와 카운터를 조합한 상태 관리
-- T-Spin 감지 (3-corner rule) — 회전 직후 코너 점유 여부로 판별
-- Ghost Piece — 현재 블록을 복사해 충돌 직전 위치까지 이동시키는 방식
-- 게임 루프 설계 — 입력 / 업데이트 / 렌더링을 명확하게 분리하고 프레임 딜레이 제어
-
-### 협업 / 개발 도구
-
-- Conventional Commits 형식으로 커밋 메시지 작성 (`feat`, `fix`, `docs`, `chore`)
-- GitHub Actions를 통한 README 자동화 경험
-- draw.io로 게임 FSM, 플레이 루프, UML 설계 문서 작성
-- AI(Claude, ChatGPT)를 코드 리뷰 도구로 활용 — 생성된 코드를 직접 검토하고 수정하는 방식
-
+객체 간 책임을 분리하며 구조를 설계하는 방식과, 입력·업데이트·렌더링 흐름을 나누어 관리하는 게임 루프 구성을 익혔습니다.
 ---
 
 ## Tech Stack

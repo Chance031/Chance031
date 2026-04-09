@@ -46,7 +46,7 @@
 | 프로젝트 | 설명 | 기술 | 상태 |
 |---|---|---|---|
 | [Console Tetris](https://github.com/Chance031/Tetris-cpp) | C++로 구현하는 콘솔 테트리스 | C++ | v1.0.0 완료 |
-| [SFML Tetris](https://github.com/Chance031/Tetris-sfml) | 콘솔 테트리스를 SFML로 리메이크 | C++, SFML | 진행중 |
+| [SFML Tetris](https://github.com/Chance031/Tetris-sfml) | 콘솔 테트리스를 SFML로 리메이크 | C++, SFML | v1.0.0 완료 |
 
 ---
 
